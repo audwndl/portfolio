@@ -8,20 +8,20 @@
 </br>
 
 ## :pushpin: Contact
-- 이메일: wjdgud9420@gmail.com
+- 이메일: dlwnaudwndl@gmail.com
 - 블로그: 
-- 깃헙: https://github.com/JungHyung2
+- 깃헙: https://github.com/audwndl
 
 </br>
 
 ## :pushpin: Projects
-### 1. [포트폴리오](https://github.com/2023-SMHRD-IS-AI1/HRGR)
->나의 프론트엔드 포트폴리오 (개인 프로젝트)  
->개발 기간: 2023.10.01 ~ 2023.11.05  
->  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+### 1. [하루그린](https://github.com/2023-SMHRD-IS-AI1/HRGR)
+>나의 프론트엔드 포트폴리오 (팀 프로젝트)
+>개발 기간: 2023.12.18 ~ 2024.01.23
+>
+>기술 스택:
+>Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL
+>H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U
 >  
 >[프로젝트 상세 설명](https://github.com/2021-SMHRD-KDT-AI-15/SNSRepo) 참고
 
