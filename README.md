@@ -19,9 +19,9 @@
 >나의 프론트엔드 포트폴리오 (팀 프로젝트)
 >개발 기간: 2023.12.18 ~ 2024.01.23
 >
->기술 스택:
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U
+>기술 스택:  
+>Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
+>H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
 >  
 >[프로젝트 상세 설명](https://github.com/2021-SMHRD-KDT-AI-15/SNSRepo) 참고
 
