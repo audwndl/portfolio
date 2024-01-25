@@ -16,9 +16,9 @@
 
 ## :pushpin: Projects
 ### 1. [하루그린](https://github.com/2023-SMHRD-IS-AI1/HRGR)
->나의 프론트엔드 포트폴리오 (팀 프로젝트)
->개발 기간: 2023.12.18 ~ 2024.01.23
->
+>나의 프론트엔드 포트폴리오 (팀 프로젝트)  
+>개발 기간: 2023.12.18 ~ 2024.01.23  
+>  
 >기술 스택:  
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
 >H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
