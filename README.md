@@ -26,7 +26,7 @@
 >
 </br>
 
-## :pushpin: 경력/경험
+## :pushpin: Projects
 ### 1. [톡톡](https://github.com/2023-SMHRD-IS-AI1/HRGR)
 >LLM을 이용한 어쩌구 (팀 프로젝트)  
 >개발 기간: 2023.12.18 ~ 2024.01.23  
