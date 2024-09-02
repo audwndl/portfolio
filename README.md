@@ -1,4 +1,4 @@
-# "끊임없는 학습과 열정으로 성장하는 개발자 💻"
+# "끊임없는 학습과 열정으로 성장하는 개발자💻, 이주명입니다."
 >  1. 지식 (Knowledge)
 >     - 팀 프로젝트에서 UI/UX 총괄을 맡아 웹페이지 디자인 경험 보유
 >     - SQL을 배우고 빠져들어 SQLD 자격증도 취득
@@ -11,26 +11,21 @@
 >     - 코딩을 사랑하는 열정적인 프로그래머로, 문제 해결에 흥미를 느끼며 엉뚱한 상상력으로 이것저것 만드는 것을 즐깁니다.
 >     - 자신만의 농담으로 사람들에게 즐거움을 주는 것을 좋아하기 때문에, 무거운 분위기보다는 가볍고 유쾌한 분위기를 선호합니다.
 >     - 꾸준한 노력으로 최신 기술들을 습득하여 활용
->
->코딩을 사랑하는 열정적인 프로그래머로, 문제 해결에 흥미를 느끼며 엉뚱한 상상력으로 이것저것 만드는 것을 즐깁니다.
->SQL을 배우고 빠져들어 SQLD 자격증도 취득했고, 최근에는 팀 프로젝트에서 UI/UX 총괄을 맡아 디자인과 사용자 경험을 개선하는 데 주력했습니다.
->개발적인 부분 외에도 포토샵, 일러스트레이터 등 디자인 툴을 배우는 것을 즐겨 하며, 창의적인 시각적 표현을 통해 프로젝트에 새로운 차원을 더했습니다.
->소프트웨어 개발을 통해 혁신적인 아이디어를 현실로 구현하는 데 열정을 가지고 있으며, 협업과 지속적인 성장을 중요시합니다.
->자신만의 농담으로 사람들에게 즐거움을 주는 것을 좋아하기 때문에, 무거운 분위기보다는 가볍고 유쾌한 분위기를 선호합니다.
->함께 일하며 창의적인 아이디어를 펼치고, 더 나은 세상을 만들어가고 싶습니다.
 
 ## :pushpin: Skills
 >## Back-end
->  - Java
->  - Spring Boot
->  - Spring framework
->  - Python
->## Data
->  - Oracle
->  - MySQL
+>  - <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+>  - <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 >## Front-end
->  - HTML/CSS
->  - JavaScript
+>  - <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+>  - <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+>  - <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+>## DB
+>  - <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+>  - <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+>## Language
+>  - <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+>  - <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 </br>
 
 ## :pushpin: Projects
@@ -50,7 +45,9 @@
 >WS/WAS : Tomcat  
 >아이디어 회의 : Notion  
 >  
->[프로젝트 상세 설명](https://github.com/Project-TokTalk/backend?tab=readme-ov-file#toktalk) 참고
+>[프로젝트 상세 설명, Backend](https://github.com/Project-TokTalk/backend) 참고
+>[Frontend](https://github.com/Project-TokTalk/React) 참고
+>[Modeling](https://github.com/Project-TokTalk/Modeling) 참고
 
 ---
 
@@ -83,6 +80,8 @@
 
 
 ## :pushpin: Education
+- 2024.09 정보처리기사 실기 합격(하고싶다)
+- 2024.06 리눅스마스터 2급 합격
 - 2023.09.27 ~ 2024.04.17(1040시간) 스마트인재개발원 2023 광주지역 산업구조 변화대응 등 특화훈련
   - 언어지능기반 분석서비스모델 개발자과정 수료
 - 2024.04 SQL개발자 (SQLD) 합격
@@ -94,7 +93,7 @@
 
 ## :pushpin: Contact
 - 이메일: dlwnaudwndl@gmail.com
-- 블로그: 
+- 블로그: https://audwndl.tistory.com
 - 깃헙: https://github.com/audwndl
 
 </br>
