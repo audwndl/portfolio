@@ -71,7 +71,6 @@
 >개발 기간: 2018.1.18 ~ 2018.4.5  
 >  
 >기술 스택: Python
-
 >  
 >[프로젝트 상세 설명](링크) 참고
 
@@ -80,10 +79,15 @@
 
 
 ## :pushpin: Education
-- AWS Technical Essentials
-- The Machine Learning Pipeline on AWS
-- AWS AI/ML Essentials
+<details><summary>AWS Technical Essentials</summary>
+<img src="https://github.com/user-attachments/assets/f86830e9-29e5-4a75-9716-405016534893" width=75%></details>
+<details><summary>The Machine Learning Pipeline on AWS</summary>
+<img src="https://github.com/user-attachments/assets/d03af1d2-d573-4e22-aa3c-addaaf1f5d22" width=75%></details>
+<details><summary>AWS AI/ML Essentials</summary>
+<img src="https://github.com/user-attachments/assets/7e8ec1d8-a384-4495-9aca-daee1a4f83db" width=75%></details>
+
 - 2023.09 ~ 2024.04 스마트인재개발원 언어지능기반 분석서비스모델 개발자과정 수료
+
 - 2013.03 ~ 2013.07 The국제직업전문학교 멀티미디어 콘텐츠 과정 수료
 
 </br>
