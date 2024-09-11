@@ -43,8 +43,15 @@
 >Server : AWS EC2  
 >DataBase : MySQL  
 >WS/WAS : Tomcat  
->아이디어 회의 : Notion  
->  
+>아이디어 회의 : Notion
+>
+>👩🏻역할 :  
+>대시보드 회원관리 백엔드 구현  
+>Flask 연동  
+>시나리오 데이터 전처리  
+>GPT API 사용 유사 질의문 생성  
+>산출문서, PPT  
+>
 >[프로젝트 상세 설명, Backend](https://github.com/Project-TokTalk/backend) 참고
 >[Frontend](https://github.com/Project-TokTalk/React) 참고
 >[Modeling](https://github.com/Project-TokTalk/Modeling) 참고
@@ -61,7 +68,13 @@
 > 
 >Front-end:  
 >Html/Css / JavaScript / Spring Framework
->  
+>
+>👩🏻역할 :  
+>프론트 총괄   
+>UI/UX 리팩토링  
+>DB 데이터 관리  
+>프론트 관련 문서 작성(Figma, 화면설계서)  
+>
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/HRGR) 참고
 
 ---
